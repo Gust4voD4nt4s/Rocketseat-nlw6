@@ -8,10 +8,6 @@
 header {
     height: 4.5rem;
     background-color: rgb(121, 17, 31);
-    
-}
-
-nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
