@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-decoration: none;
 }
 
 header {
@@ -9,10 +10,13 @@ header {
     background-color: red;
 }
 
-.container {
+nav {
     display: flex;
     justify-content: space-between;
-    
+    list-style: none;
+}
+
+.container {    
     margin: auto 7.6rem;
 }
 
