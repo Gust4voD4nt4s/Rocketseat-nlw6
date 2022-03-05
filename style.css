@@ -6,10 +6,16 @@
 
 header {
     height: 4.5rem;
+    background-color: red;
 }
 
 .container {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     margin: auto 7.6rem;
+}
+
+.logo {
+    
 }
